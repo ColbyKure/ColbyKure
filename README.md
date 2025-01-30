@@ -1,4 +1,4 @@
-# Hi, I'm Colby Kure 👋  
+# Hi, I'm Colby Kure 
 
 I'm a **Full-Stack Engineer** with experience in building scalable web applications using modern technologies. I specialize in developing robust and user-friendly applications across the **MEAN, PERN, and .NET/C# stacks**.  
 
