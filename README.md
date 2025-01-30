@@ -1,13 +1,18 @@
-Hi, I'm Colby Kure, a <b>fullstack developer</b> , <b>python hobbiest</b> , and a <b>many-worlds ethusiast</b>.
+# Hi, I'm Colby Kure 👋  
 
-I have expereince building fullstack application with:
-  - MEAN - MongoDB, Express, Angular, Node
-  - PERN - Postrgres, Express, React, Node
-  - .NET/C#, Entity Framework, SQL
-  
-I enjoy learning about data science and solving math problems with python. 
+I'm a **Full-Stack Engineer** with experience in building scalable web applications using modern technologies. I specialize in developing robust and user-friendly applications across the **MEAN, PERN, and .NET/C# stacks**.  
 
-I also enjoy listening to science podcasts, and learning about the many-worlds interpretation of quantum physics. 
+## Tech Stack & Expertise  
+- **Frontend:** React, Angular, TypeScript, JavaScript  
+- **Backend:** Node.js, Express, .NET/C#  
+- **Databases:** PostgreSQL, MongoDB, SQL Server  
+- **Other Tools:** Entity Framework, RESTful APIs, Git, Docker  
+
+## 🛠What I Build  
+I develop **full-stack applications** that focus on performance, scalability, and great user experiences. Whether it's designing sleek UIs, optimizing database queries, or architecting backend services, I enjoy tackling complex challenges.  
+
+**Let's Connect!**  
+I'm actively looking for new opportunities as a Full-Stack Engineer. Feel free to reach out!  
 
 <!---
 ColbyKure/ColbyKure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
